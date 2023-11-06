@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm Archie Ryan Amoyan</h1>
-<h3 align="center">Enthusiast about harnessing technology to drive innovation and create a positive impact on work. Proficient in IT infrastructure management, coding, and software development, thriving in collaborating across teams to deliver cutting-edge solutions that enhance efficiency, productivity, and competitiveness. Let's connect to explore opportunities and share insights in the dynamic world of tech, and together, we can make a meaningful impact.</h3>
+<h1 align="center">Oh! hey there 👋, I'm Archie Ryan Amoyan</h1>
+<h3 align="center">Enthusiast about harnessing technology to drive innovation and create a positive impact for work. Proficient in IT infrastructure management, coding, and software development, thriving in collaborating across teams to deliver cutting-edge solutions that enhance efficiency, productivity, and competitiveness. Let's connect to explore opportunities and share insights in the dynamic world of tech, and together, we can make a meaningful impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techryan&label=Profile%20views&color=0e75b6&style=flat" alt="techryan" /> </p>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/dev.ryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.ryan" height="30" width="40" /></a>
 <a href="https://twitter.com/iamaarchieryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamaarchieryan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/archieryanamoyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/archieryanamoyan/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/archieryan.amoyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/archieryan.amoyan/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/iamarchieryan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamarchieryan/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.facebook.com/archieryan.amoyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.facebook.com/archieryan.amoyan/" height="30" width="40" /></a>
 </p>
